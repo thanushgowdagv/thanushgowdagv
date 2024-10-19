@@ -3,8 +3,7 @@ I'm student <br>Engineering<br>ECE@BIT<br>Love exploring things
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thanushgowdagv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/
-
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thanushgowdagv) 
 
 # 📊 GitHub Stats:
 ## 🌐 Socials:
