@@ -3,8 +3,8 @@ I'm student <br>Engineering<br>ECE@BIT<br>Love exploring things
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thanushgowdagv) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thanush-gowda-g-v-153bba32a) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/thanushgowdagv) 
+[![Instagram]https://www.instagram.com/thanush_gowda_gv?igsh=enlib2pveXkwYWk2 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thanush-gowda-g-v-153bba32a) 
 
 
 ### 🔝 Top Contributed Repo
