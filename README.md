@@ -3,7 +3,7 @@ I'm student <br>Engineering<br>ECE@BIT<br>Love exploring things
 
 
 ## 🌐 Socials:
-[![Instagram]https://www.instagram.com/thanush_gowda_gv?igsh=enlib2pveXkwYWk2 
+[![Instagram](https://www.instagram.com/thanush_gowda_gv?igsh=enlib2pveXkwYWk2) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thanush-gowda-g-v-153bba32a) 
 
 
