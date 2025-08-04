@@ -8,8 +8,6 @@ I’m *Thanush Gowda G V*,<br> An Electronics and Communication Engineering stud
 
 - [LinkedIn](https://www.linkedin.com/in/thanushgowdagv)
 - [Instagram](https://www.instagram.com/thanushgowdagv)
-- [Python Certificate (Springboard)](https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_012847165346365440267_shared/overview)
-
 ---
 
 ## 🧰 Skills
@@ -22,7 +20,7 @@ I’m *Thanush Gowda G V*,<br> An Electronics and Communication Engineering stud
 
 ## 📌 Top Project
 
-- [LED-PCB Design using KiCad](https://github.com/thanushgowdagv/LED-PCB)
+- [AC-to-DC-converter design using KiCad](https://github.com/thanushgowdagv/AC-to-DC-converter)
 
 ---
 
