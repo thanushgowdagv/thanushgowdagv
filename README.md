@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-I’m *Thanush Gowda G V*, an Electronics and Communication Engineering student (ECE @ BIT, Bengaluru) passionate about electronics, PCB design, and programming. I love creating projects that combine hardware and software, and I’m always eager to explore new technologies.
+I’m *Thanush Gowda G V*<br>, an Electronics and Communication Engineering student (ECE @ BIT, Bengaluru) passionate about electronics, PCB design, and programming. I love creating projects that combine hardware and software, and I’m always eager to explore new technologies.
 
 ---
 
